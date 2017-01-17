@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<day1test2>
+	<clothes> <!--Some comment
+We can have comments on different 
+strings	-->
+		<outerwear>
+			<coat>
+				<coat1/>
+			</coat>
+			<jacket>
+				<jacket1/>
+			</jacket>
+			<fur_coat>
+				<fur_coat1/>
+			</fur_coat>
+		</outerwear>
+		<pants>
+			<pants1/>
+		</pants>
+		<sweaters>
+			<sweater1/>
+		</sweaters>
+	</clothes>
+	<shoes>
+		<summer_shoes>
+			<shoe1 producer="Gucci" id="15" price="16" />
+		</summer_shoes>
+		<winter_shoes>
+			<shoe2/>
+		</winter_shoes>
+		<fall_shoes>
+			<shoe3/>
+		</fall_shoes>
+	</shoes>
+</day1test2>
